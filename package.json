@@ -1,0 +1,17 @@
+{
+  "name": "auth1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blueprint.js",
+  "dependencies": {
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
